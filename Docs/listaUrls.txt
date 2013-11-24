@@ -1,0 +1,23 @@
+Eu criei um server com o XAMPP para poder usar nas publicações no celular
+
+//para validar a url do manifesto
+https://marketplace.firefox.com/developers/validator
+
+//criando o manifesto
+https://developer.mozilla.org/en-US/Apps/Developing/Manifest
+
+//exemplo de projeto empacotado
+https://github.com/carlosstenzel/appempacotado
+
+//instação dos projetos
+https://developer.mozilla.org/pt-BR/docs/Apps/Apps_empacotado
+
+//tipo apps empacotados
+https://developer.mozilla.org/pt-BR/docs/Apps/Apps_empacotado
+
+//Tutorial
+https://developer.mozilla.org/pt-BR/
+
+//layouts
+http://buildingfirefoxos.com/
+
